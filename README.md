@@ -122,4 +122,3 @@ Access the interactive OpenAPI documentation at:
 ```http
 Authorization: Bearer <access_token>
 ```
-# auth
